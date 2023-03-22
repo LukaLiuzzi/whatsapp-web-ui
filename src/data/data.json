@@ -1,0 +1,40 @@
+{
+  "conversation_list": [
+    {
+      "contactName": "José",
+      "lastMessage": "Ultimo mensaje enviado por José",
+      "lastTime": "19:15",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Hola?"
+        },
+        {
+          "me": false ,
+          "message": "Hola!! Como estas?"
+        }
+      ]
+    },
+    {
+      "contactName": "Maria",
+      "lastMessage": "Ultimo mensaje enviado por Maria",
+      "lastTime": "05:43",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Que numero sale en la loteria?"
+        },
+        {
+          "me": false ,
+          "message": "El 14"
+        },
+        {
+          "me": true ,
+          "message": "Me hiciste perder 1000 pesos"
+        }
+      ]
+    }
+  ]
+}
