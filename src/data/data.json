@@ -1,8 +1,8 @@
 {
   "conversation_list": [
     {
-      "contactName": "José",
-      "lastMessage": "Ultimo mensaje enviado por José",
+      "contactName": "Luka",
+      "lastMessage": "Ultimo mensaje enviado por Luka",
       "lastTime": "19:15",
       "image": "avatar.jpg",
       "messageHistory": [
@@ -13,12 +13,20 @@
         {
           "me": false ,
           "message": "Hola!! Como estas?"
+        },
+        {
+          "me": true ,
+          "message": "Bien y vos?"
+        },
+        {
+          "me": false ,
+          "message": "Bien, gracias"
         }
       ]
     },
     {
-      "contactName": "Maria",
-      "lastMessage": "Ultimo mensaje enviado por Maria",
+      "contactName": "Mariana",
+      "lastMessage": "Ultimo mensaje enviado por Mariana",
       "lastTime": "05:43",
       "image": "avatar.jpg",
       "messageHistory": [

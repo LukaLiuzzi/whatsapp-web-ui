@@ -139,7 +139,7 @@ export default function HomePage() {
 		<div className='flex justify-center'>
 			<div className='flex w-full xl:container h-screen xl:py-4'>
 				<SideBar />
-				<div className='flex w-[70%] bg-[#222E35]'>
+				<div className='flex w-[70%] bg-[#111B21]'>
 					{conversation.contactName ? <ConversationDetails /> : <IconHome />}
 				</div>
 			</div>
